@@ -2,7 +2,7 @@
 Design a text-based game where the player controls a character.
 Use nested if statements to handle different interactions based on the player's choices, leading to multiple possible outcomes.
 '''
-
+#i am new addition 
 print("Welcome to the Forest Adventure!")
 print("\nYou find yourself in a dense forest. You can go 'left', 'right', or 'straight'.")
 choice1 = input("Which way do you want to go? ")
